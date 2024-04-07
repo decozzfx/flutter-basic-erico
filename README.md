@@ -1,3 +1,2 @@
 # flutter_basic
-
-A new Flutter project.
+the courses in lib folder
