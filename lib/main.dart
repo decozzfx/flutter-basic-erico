@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'latihan_16_multipage/main.dart';
+import 'latihan_24_positioned_floatingactionbutton.dart';
 
 void main() {
-  runApp(const MainApp());
+  runApp(MainApp());
 }
