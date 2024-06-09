@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'colorful_button.dart';
+import 'components/colorful_button.dart';
 
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
