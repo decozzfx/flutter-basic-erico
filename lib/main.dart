@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'latihan_42_provider_state_management.dart';
+import 'latihan_47_timer.dart';
 
 void main() {
   runApp(MainApp());
